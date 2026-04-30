@@ -1,7 +1,7 @@
-# CodeCraftHub: Your Learning Management Platform
+# xrwvm-fullstack_developer_capstone
 
-## Repository Name
-final-project-lab
+## Project Name
+xrwvm-fullstack_developer_capstone
 
 ## Project Description
 This project is a web-based Learning Management Platform that allows users to explore courses, interact with content, and manage learning activities.
